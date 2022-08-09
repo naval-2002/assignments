@@ -18,7 +18,7 @@ numbers :: 3, -7, 2
  let asscendingnumber = */
 
 // Check if input variable is a number or not
- const number = "5";
+ //const number = "5";
  /*if (number === numericvalue ) {
   console.log("it is number")
  }
@@ -26,7 +26,7 @@ else  {
  console.log("it is not a number")
  }*/
 
- const side1 = 10;
+ const side1 = 1;
  const side2 = 10;
  const side3 =10;
  if (side1 === side2 && side1 === side3 && side2 === side3) {
@@ -38,3 +38,4 @@ else  {
  else {
   console.log("scelene")
  }
+
